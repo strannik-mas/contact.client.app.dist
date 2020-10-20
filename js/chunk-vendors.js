@@ -3854,7 +3854,7 @@ eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\nvar withParams = Object({\"NODE_ENV\":\"development\",\"VUE_APP_API_KEY\":\"0cf29613-e6d8-40d0-a881-6de5e3e8f735\",\"VUE_APP_API_OLD_URL\":\"https://demo.contact.org.il/api/site/\",\"VUE_APP_API_URL\":\"https://demo.contact.org.il/api/v2/\",\"VUE_APP_DEFAULT_LOCALE\":\"he\",\"VUE_APP_NAME\":\"Client\",\"BASE_URL\":\"/\"}).BUILD === 'web' ? __webpack_require__(/*! ./withParamsBrowser */ \"./node_modules/vuelidate/lib/withParamsBrowser.js\").withParams : __webpack_require__(/*! ./params */ \"./node_modules/vuelidate/lib/params.js\").withParams;\nvar _default = withParams;\nexports.default = _default;\n\n//# sourceURL=webpack:///./node_modules/vuelidate/lib/withParams.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\nvar withParams = Object({\"NODE_ENV\":\"development\",\"VUE_APP_API_KEY\":\"2fddbea4-ee94-47e4-ba18-c72a372c36ed\",\"VUE_APP_API_OLD_URL\":\"https://demo.contact.org.il/api/site/\",\"VUE_APP_API_URL\":\"https://demo.contact.org.il/api/v2/\",\"VUE_APP_DEFAULT_LOCALE\":\"he\",\"VUE_APP_NAME\":\"Client\",\"BASE_URL\":\"/\"}).BUILD === 'web' ? __webpack_require__(/*! ./withParamsBrowser */ \"./node_modules/vuelidate/lib/withParamsBrowser.js\").withParams : __webpack_require__(/*! ./params */ \"./node_modules/vuelidate/lib/params.js\").withParams;\nvar _default = withParams;\nexports.default = _default;\n\n//# sourceURL=webpack:///./node_modules/vuelidate/lib/withParams.js?");
 
 /***/ }),
 
